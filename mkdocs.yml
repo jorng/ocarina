@@ -1,0 +1,58 @@
+site_name: "The Legend of Zelda: Ocarina of Time"
+theme:
+  name: material
+  favicon: images/favicon.png
+  logo: images/triforce.png
+  palette:
+    scheme: default
+    primary: green
+    accent: yellow
+  features:
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    - navigation.path
+    - navigation.sections
+    - navigation.tracking
+    - search.highlight
+    - search.suggest
+plugins:
+  - search:
+      lang: en
+  - glightbox
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - tables
+nav:
+  - About: index.md
+  - Game Basics: game_basics.md
+  - Walkthrough and Sidequests:
+    - Main Adventure:
+      - walkthrough/main_adventure/index.md
+      - walkthrough/main_adventure/progression_faq.md
+      - walkthrough/main_adventure/0302_kokiri_forest.md
+    - Sidequests:
+      - walkthrough/sidequests/spoiler_free.md
+      - walkthrough/sidequests/happy_mask.md
+      - walkthrough/sidequests/epona.md
+      - walkthrough/sidequests/biggeron.md
+      - walkthrough/sidequests/gerudo.md
+  - Inventory, Songs, Equipment, Upgrades and Quest Items: ""
+  - Pieces of Heart: ""
+  - Gold Skulltulas: ""
+  - Minigame Appendix: ""
+  - Miniboss and Boss Appendix: ""
+  - Frequently Asked Questions: ""
+  - Legal Stuff, Links, Contact Information and Special Thanks: ""
