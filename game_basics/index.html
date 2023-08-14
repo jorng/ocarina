@@ -1,0 +1,1267 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="..">
+      
+      
+        <link rel="next" href="../walkthrough/main_adventure/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.2, mkdocs-material-9.1.21+insiders-4.39.0">
+    
+    
+      
+        <title>Game Basics - The Legend of Zelda: Ocarina of Time</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.02b45acc.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ecc776e4.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+   <link href="../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+        html.glightbox-open { overflow: initial; height: 100%; }
+        .gslide-title { margin-top: 0px; user-select: text; }
+        .gslide-desc { color: #666; user-select: text; }
+        .gslide-image img { background: white; }
+        
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+            </style> <script src="../assets/javascripts/glightbox.min.js"></script></head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="green" data-md-color-accent="yellow">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#the-legend-of-zelda" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="The Legend of Zelda: Ocarina of Time" class="md-header__button md-logo" aria-label="The Legend of Zelda: Ocarina of Time" data-md-component="logo">
+      
+  <img src="../images/triforce.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            The Legend of Zelda: Ocarina of Time
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Game Basics
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="The Legend of Zelda: Ocarina of Time" class="md-nav__button md-logo" aria-label="The Legend of Zelda: Ocarina of Time" data-md-component="logo">
+      
+  <img src="../images/triforce.png" alt="logo">
+
+    </a>
+    The Legend of Zelda: Ocarina of Time
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    About
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    
+  
+    Game Basics
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Game Basics
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#the-legend-of-zelda" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The Legend of Zelda
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#hyrule-overworld" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Hyrule Overworld
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dungeons-of-hyrule" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Dungeons of Hyrule
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#young-link-and-adult-link" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Young Link and Adult Link
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#links-inventory" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Link's Inventory
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#music-in-ocarina-of-time" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Music in Ocarina of Time
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sword-combat-and-z-targeting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Sword Combat and Z-Targeting
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gold-skulltulas-and-pieces-of-heart" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Gold Skulltulas and Pieces of Heart
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Conclusion
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    
+  
+    Walkthrough and Sidequests
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Walkthrough and Sidequests
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_1" >
+        
+          
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../walkthrough/main_adventure/" class="md-nav__link ">
+              
+  
+  <span class="md-ellipsis">
+    
+  
+    Main Adventure
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              <label class="md-nav__link " for="__nav_3_1">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Main Adventure
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../walkthrough/main_adventure/0301_progression_faq/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Progression FAQ
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../walkthrough/main_adventure/0302_kokiri_forest/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Kokiri Forest
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../walkthrough/main_adventure/0303_deku_tree/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Dungeon I: Inside the Deku Tree
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3_2" >
+        
+          <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    
+  
+    Sidequests
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Sidequests
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../walkthrough/sidequests/spoiler_free/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Spoiler-Free Walkthrough
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../walkthrough/sidequests/happy_mask/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Happy Mask Salesman Sidequest
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../walkthrough/sidequests/epona/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Obtaining Epona
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../walkthrough/sidequests/biggeron/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Biggeron Sword
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../walkthrough/sidequests/gerudo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    The Gerudo Training Ground
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Inventory, Songs, Equipment, Upgrades and Quest Items
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Pieces of Heart
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Gold Skulltulas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Minigame Appendix
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Miniboss and Boss Appendix
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Frequently Asked Questions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    
+  
+    Legal Stuff, Links, Contact Information and Special Thanks
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#the-legend-of-zelda" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The Legend of Zelda
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#hyrule-overworld" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Hyrule Overworld
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dungeons-of-hyrule" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Dungeons of Hyrule
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#young-link-and-adult-link" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Young Link and Adult Link
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#links-inventory" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Link's Inventory
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#music-in-ocarina-of-time" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Music in Ocarina of Time
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sword-combat-and-z-targeting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Sword Combat and Z-Targeting
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#gold-skulltulas-and-pieces-of-heart" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Gold Skulltulas and Pieces of Heart
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#conclusion" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Conclusion
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  <h1>Game Basics</h1>
+
+<h2 id="the-legend-of-zelda">The Legend of Zelda</h2>
+<p>It all began in 1986, when a little game known as "The Legend of Zelda" was released for the Nintendo Entertainment System (or Famicom, for our Japanese readers). It's distinctive golden cartridge, battery-backed memory and epic storyline clearly showed that this was no normal game. The Legend of Zelda paved the way for other influential titles, such as Dragon Warrior and Final Fantasy, which would go on to be critically-acclaimed series themselves, their roots forgotten as technology advanced. But it all goes back to The Legend of Zelda.</p>
+<p>The original Zelda was followed in 1989 by Zelda II: The Adventure of Link. Though a controversial addition to the series, it was nevertheless an important one. It's side-scrolling and role-playing elements, and removed emphasis on Link's inventory clearly showed what worked and what didn't in the series. When A Link to the Past debuted on the Super Nintendo Entertainment System in 1991, it returned to classic Legend of Zelda gameplay.</p>
+<p>Though A Link to the Past restored Zelda to it's roots, it took it much farther. Link's inventory was tripled, and the overworld of the original (already modestly large, even by today's standards) was expanded by an unbelievable factor. The Legend of Zelda was a hit game; A Link to the Past pushed Zelda into legendary status. Even today, almost fifteen years later, A Link to the Past is still considered one of the greatest games ever produced, standing up to scrutiny and the tests of time far longer then it's fellows.</p>
+<p>Link's first foray into the handheld market was in the critically-acclaimed "Link's Awakening" for the classic Game Boy. Amazingly, despite the Game Boy's limited technological potential, Link's Awakening felt more like a minimized- version of A Link to the Past instead of a cheap knockoff of the original Zelda. The game even made tentative steps to retry Zelda's hand at side- scrolling, with surprisingly fun results. As one of the first Game Boy games to demonstrate that a handheld title could have actual depth and character to it, Link had proven once again that the Legend of Zelda was the series of innovation.</p>
+<p>The series entered it's longest time of stagnation ever at this point. It wasn't until 1997 that The Legend of Zelda: Ocarina of Time was released for the Nintendo 64. Needless to say, the wait was worth it, as with it's fellows A Link to the Past and the original Legend of Zelda, Ocarina of Time was critically acclaimed and set the standard for what future Action games should be. Indeed, Ocarina of Time's pioneering Z-Targeting system was soon copied by just about every action game on the market. But, as with so many things ripped off from competing titles, these adaptations failed miserably. Even to this day, the best Z-Targeting is still found in the Zelda Series, and Ocarina of Time is regularly awarded the title of "Best Game Ever" by gaming publications worldwide.</p>
+<p>Ocarina's enduring gameplay and revolutionary engine has since spawned a veritable cabbage-industry of knockoffs, safely marking it as every bit as influential as the original Legend of Zelda. With the lessons that Nintendo had learned from Super Mario 64 (itself considered one of the great 3-D Platforming titles), Zelda had managed to recreate itself for the third time. Following quickly in Ocarina's footsteps came Majora's Mask, whose rapid release following Ocarina was attributed largely to the fact that it used the already created Ocarina game engine.</p>
+<p>But that didn't stop Ocarina; it remained one of the best selling games of all time right to the end of the N64's lifespan. It has even been re-released not once, but twice for the Gamecube (once as a bundle in the Zelda Collector's Edition, and once in the Ocarina of Time/Master Quest bundle with The Wind Waker). As if to prove Ocarina's enduring legacy and rabid fanbase, these two titles are incredibly difficult to find, and have absurd price tags attached to them when you do. A used Collector's Edition in good condition will fetch fifty dollars easily, the same price as a brand new game.</p>
+<p>Though The Legend of Zelda: Ocarina of Time is nearing it's tenth anniversary as I write this, it's legacy continues and pervades every action title imaginable in even the remotest way. And so I honor the game, the series, and the legend with this guide, what my own manic ambitions desire to be the greatest Ocarina of Time guide ever written.</p>
+<p>Go me.</p>
+<h2 id="hyrule-overworld">Hyrule Overworld</h2>
+<p>Most Zelda games take place in the land of Hyrule, and Ocarina of Time possesses the most fully realized and complete version of this mythical land. Like most fictional worlds, Hyrule doesn't try to hide the fact that it is actually just a smattering of Earthly-locales put together to form a coherent, living place. It contains a single forest, a single mountain, a single river, a single lake, a single plain... you get the idea.</p>
+<p>At the start of the game, players take control of Link, a young Kokiri (think Elves crossed with Hobbits). The Kokiri live together in a small, protected section of the Lost Woods known as "The Kokiri Forest." Ruled by their benevolent demigod, The Deku Tree, the Kokiri live together in peaceful harmony. In the midst of the Lost Woods there is a meadow, the Sacred Forest Meadow, which some Kokiri are known to visit periodically. In the midst of this meadow is the Forest Temple.</p>
+<p>North of the Lost Woods is the land of the Zoras. Ruled over by their King, and worshipping the immortal fish Jabu-Jabu, the Zoras rule the waters of Hyrule. In addition to their mystic fountain and the aquatic caverns that make their home, the Zora call Zora's River in the east and Lake Hylia in the south their home. Deep beneath Lake Hylia lies the Water Temple.</p>
+<p>North of Lake Hylia, there exists a rocky, rugged valley that is home to the Gerudos. The Gerudos are an earthy, secretive race whose people are mostly female. Only a single male Gerudo is born every one hundred years. Ocarina's villain, Ganondorf, hails from this land. Built on the other side of a narrow canyon, the Gerudo's have a mighty fortress that they call home. The Fortress borders along a desert, known only as the Haunted Wasteland. Hidden in the midst of the Haunted Wasteland is the Desert Colossus, an ancient oasis and home of the Gerudos. The Desert Colossus is actually revealed to be the Spirit Temple.</p>
+<p>In the northeast corner of Hyrule is the village of Kakariko. Originally a home to the reclusive Sheikah tribe, with the slow demise of their tribe more and more Hylians have taken up residence there. Despite the new presence of the Hylians, dark secrets of the Sheikah still reside buried beneath the town and the graveyard behind it. Kakariko Village is nestled at the foot of Death Mountain, Hyrule's resident active volcano. Home to a race of rock-like creatures known as the Gorons, the mountain is also home to other, more unpleasant creatures, such as the Dodongos. The Fire Temple is found in the middle of Death Mountain's active crater.</p>
+<p>To the west of Death Mountain lies Hyrule Castle. Home to the Hylians, and Hyrule's namesake, Hyrule Castle contains a Market, and housing for the citizens of Hyrule and it's Royal Family. Princess Zelda and her family reside here as well. All of Hyrule is connected by a vast, sparsely forested field, and in the middle of this field is Lon Lon Ranch. Home to Talon, his daughter Malon and their assistant, Ingo, Lon Lon Ranch provides the horses that the Hylians use to cross the field.</p>
+<h2 id="dungeons-of-hyrule">Dungeons of Hyrule</h2>
+<p>In each of the five environments of Hyrule, there exists a Temple which is aligned to the people of that land. In the densely forested Lost Woods, there is the Forest Temple. In the midst of the burning embers of Death Mountain Crater, there is the Fire Temple. Underneath the surface of Lake Hylia is the Water Temple. Buried beneath the Kakariko Graveyard is the Shadow Temple. Deep within the rugged Gerudo Desert is the Spirit Temple. Aside from these five mystic temples, home to five of the six Spiritual Sages, there are also smaller dwellings of evil creatures.</p>
+<p>Both the Deku Tree and the Zora Demi-god Jabu-Jabu have been cursed by evil creatures, and only by traveling into their interiors will Link be able to defeat the evil monsters and free the Deku Tree and Jabu-Jabu from the enchantment. Deep within Death Mountain, there is a cavern where the Gorons harvest the "Special Crop" that sustains them. Recently, a pack of ferocious animals have taken up residence in this cavern, leaving the Gorons starving and their spirits broken. Hidden beneath Kakariko Village lies the remnants of an ancient Sheikah temple, which has been overrun by the undead. And in the mystic fountain of the Zoras, there is a frigid cavern which threatens to destroy the home of the Zora.</p>
+<p>With nine dungeons, two mini-dungeons and one optional dungeon, Ocarina of Time has the largest number of dungeons of any Zelda title, past or present. Though they are not as challenging as the dungeons that appeared in Majora's Mask, nor as lengthy as the dungeons of Wind Waker, the dungeons of Ocarina of Time more then make up for this by being numerous and diverse.</p>
+<p>Each dungeon of the game is built around one central theme - such as the interior of a fish, or a dungeon based around water or fire - and though there are numerous puzzles to be solved, each dungeon has one "Big Puzzle" which must be completed to access the boss and complete the dungeon.</p>
+<p>In the game's first dungeon, Inside the Deku Tree, players must open up passages in the Deku Tree's main chamber, climbing from the Tree's top to it's bottom, finally reaching the Tree's roots and defeating the parasite that is sapping it's strength. In Dodongo's Cavern, players must climb to the top of a massive Dodongo's skull and force it's mouth open, opening a passage to the King Dodongo. In Jabu-Jabu's Belly, players must destroy parasitic tentacles that sap Jabu-Jabu's strength, finally revealing a path to the parasite in Jabu-Jabu's brain.</p>
+<p>In the Forest Temple, players must track down and kill four elusive Poes who have stolen magic flames, which open the passage to the boss chamber. In the Fire Temple, players must climb clear to the top of the massive structure, in order to create a bridge to the boss at the bottom of the Temple. In the Water Temple, players must proactively raise and lower the water level in the Temple in order to reach the different areas of the dungeon (a Temple which, may I add, has irked Ocarina players for over a decade).</p>
+<p>In the Shadow Temple, players must cross great expanses of deadly traps in an almost Indiana Jones-esque environment. In the Spirit Temple, players have to travel through time in order to complete both wings of the dungeon. And lastly, in Ganon's Castle, players must destroy the six Seals in the Keep. Each Seal is stored in a room which echoes one of the six Temples of the land (The Light Temple, which is not an accessible Temple in the game, is also represented here by the Light Seal).</p>
+<h2 id="young-link-and-adult-link">Young Link and Adult Link</h2>
+<p>At the start of Ocarina of Time, Link is a young Kokiri, living amidst the playful Kokiri tribe. The Kokiri are completely protected by the benevolent Deku Tree, who hides the forest from outsiders and protects the Kokiri from the dangerous monsters of the Lost Woods. But almost as soon as the game begins, this fragile protection is shattered by the death of the Deku Tree. With his forest home now in danger, Link sets out to fulfill the last wishes of the Great Deku Tree: To find the Princess of Destiny, and the three Spiritual Stones, before the Gerudo Thief Ganondorf does.</p>
+<p>But after a hearty adventure gathering the Spiritual Stones and covering every inch of Hyrule with his footsteps, Link discovers that his adventure has only just begun. After opening the Door of Time and drawing the Master Sword from it's pedestal, Young Link immediately finds himself awakening seven years in the future, and he has become a full-grown Adult. What's more, thanks to the magic of the Master Sword and the Ocarina of Time, Link gains the ability to travel back and forth between his childhood and his adulthood, simply by visiting the Temple of Time. He has now truly become the Hero of Time.</p>
+<p>Actions that Link performs as a child, be it planting a magic bean, uncovering a new item, or forging a special bond with a denizen of Hyrule directly affect the future. And conversely, knowledge that Link acquires as an adult can be carried to the past, letting Young Link travel to faraway locales normally unavailable to him. This, in turn, lets Young Link perform new actions, plant new magic beans, uncover new items, forge new special bonds, etc., which then directly affect the future. The concept of time travel is deeply ingrained in Ocarina of Time's gameplay.</p>
+<p>On a more technical level, this concept of time travel provides some truly intriguing twists in the gameplay. Adult Link, for example, has access to far more items then Young Link, and his items and weapons are also far more powerful. This lets him reach corners of Hyrule completely unreachable with Young Link. However, Young Link's smaller size, and the undisturbed peace of Hyrule in it's prime, let's him access some areas which are closed to Adult Link. Mastering the nuances of both versions of Link, and learning when each one needs to be used to get past certain obstacles, lets the player reach hidden Heart Pieces and Gold Skulltulas.</p>
+<h2 id="links-inventory">Link's Inventory</h2>
+<p>Though his inventory in Ocarina of Time is not as large or varied as it was in A Link to the Past, this is due more to the fact that Ocarina doesn't have quite as many superfluos items that you use once, and then forget they exist. In a nutshell, Ocarina has fewer items then Link to the Past, but they are used better, so we forgive them.</p>
+<p>All of Link's classic items from previous games return - the Bow and Arrows and Bombs, a staple since the original title, return in all their glory. The now- famous Hookshot from A Link to the Past, arguably the most brilliantly conceived item in the entire series, returns for Ocarina, reworked for it's three dimensional environment. Even A Link to the Past's oft-ignored Magic Hammer returns for Ocarina, though this time around it has become the Megaton Hammer, and is so massive even Adult Link has difficulty in wielding it. New items in the series include the unorthodox and under-utilized Bombchus (which crawl along walls and ceilings in a straight line before finally exploding), and the Lens of Truth (which reveals things for what they truly are, making the invisible visible, and the fake disappear).</p>
+<p>In A Link to the Past, Link had upgradeable equipment, but never on the level that appears in Ocarina. Obtaining new Armor in A Link to the Past enhanced Link's defense. In Ocarina, new tunics grant Link the ability to breath underwater or withstand tremendous heat, and the player can change between available tunics at will. Also in A Link to the Past, upgrading Link's sword or shield to their next level was a permanent upgrade. In Ocarina, players can choose which sword or shield they choose to wield, as each provides unique advantages and disadvantages for both Young Link and Adult Link.</p>
+<p>The Kokiri Sword, which is little more then a large knife, is the only weapon small enough for Young Link to brandish. But as Adult Link, players can choose to use the Master Sword, or the Biggoron's Sword. The Master Sword is a sturdy weapon, which is light enough to wield with a shield. The Biggoron's Sword, on the other hand, is so massive that Adult Link can't use a shield while wielding it, and has such a wide reach that the blade is impossible to use in narrow corridors. Even the way Young Link and Adult Link use the Hylian Shield is markedly different. Though both can equip the shield, it is too big for Young Link to actually use, and he instead has to resort to hiding under it like a shell.</p>
+<h2 id="music-in-ocarina-of-time">Music in Ocarina of Time</h2>
+<p>Music has been a staple of the series since it's inception, and has slowly developed over the ever-expanding list of titles. In the original Legend of Zelda, the Magic Flute was used to warp around the Hyrule Overworld, and was even instrumental in defeating certain bosses. In Zelda II: The Adventure of Link, the flute had a much reduced but still significant role in defeating enemies. A Link to the Past saw the Magic Flute (still called a Flute, even though by that time it had evolved fully into the Ocarina we know today) being used to summon a helpful bird that would carry Link to different corners of Hyrule. Link's Awakening saw the first introduction of multiple songs available for the Flute, but Ocarina of Time takes the magical flute and turns it from novelty item into full-blown musical instrument.</p>
+<p>Though the Ocarina is just that: an Ocarina, the different songs that can be played on it are key to finishing the game. One of the first songs you learn, Zelda's Lullaby, is used by Young Link to show his allegiance to the Hyrule Royal Family to the Gorons and Zoras, and is later used by Adult Link in the dungeons and other hidden locations of Hyrule. Epona's Song is the only way to obtain Epona, Link's legendary horse. The Sun's Song possesses the power to turn day into night, and night into day. The Song of Storm's can summon storms to Link's location.</p>
+<p>But the Ocarina is used more then to just play music; later, he can use it to travel instantaneously between different locations in Hyrule. This is pivotal in allowing Young Link to bypass certain obstacles (such as an impassable barrier of rock, or particularly stubborn guards) and reach some of the more elusive locales in Hyrule. Though the Ocarina seems a small and seemingly expendable trinket, it's one of the most endearing and important items in the game.</p>
+<h2 id="sword-combat-and-z-targeting">Sword Combat and Z-Targeting</h2>
+<p>At the start of his journey, Link is joined by a Fairy called Navi. Navi, sent specially to Link by the Deku Tree, acts as his friend and companion through his adventure. Though sometimes annoyingly persistent in calling Link's attention (Hey! Hey! Listen! Hey!), Navi nevertheless performs a pivotal action in the game: Z-Targeting.</p>
+<p>Constantly copied by Zelda's competitors, but never as faithfully or brilliantly conceived as it appears in the Zelda series, Z-Targeting allows Link to focus his attention on a single target, and radically alters his moveset to focus on combat. While in free-form camera mode, the A Button makes Link interact with objects in his environment. While Z-Targeted, however, it causes Link to perform different jumping actions. Jumping to the left or right will strafe in a circle around the enemy, while a backwards jump will make Link do a backflip. A jump while holding forward causes Link to perform the Jump Attack, the most powerful attack in his repertoire.</p>
+<p>While in free-form camera mode, the R Button activates Link's shield. However, it also makes him completely stationary. While Z-Targeted, however, holding the R button will tell Link to raise his shield, but he still maintains his mobility. Even the Sword's attacks change while Z-Targeted. While in free- form mode, tapping the B Button will cause Link to perform a sideways, sweeping attack. While Z-Targeted, however, this attack becomes a downward plunge. Holding forward and B will cause Link to stab, or a whole new assortment of cool attacks. Even Prince of Persia's "Free-Form Fighting System" isn't nearly as flexible or fun as Ocarina's Z-Targeted battles... at least in this author's opinion.</p>
+<p>Mastering the nuances of blocking with the shield, dodging with different jumping maneuvers, and attacking in many different methods provides a unique, simple, yet engaging combat experience, one which few other action games in existence can challenge.</p>
+<h2 id="gold-skulltulas-and-pieces-of-heart">Gold Skulltulas and Pieces of Heart</h2>
+<p>Like so many concepts that just plain worked since the original title, Zelda games are filled with lots of optional upgrades to find to enhance Link. Though in the original game this was limited to four hidden Heart Containers in the Overworld, since then the hidden items have grown to include the quintessential Pieces of Heart, the always-elusive Fourth Bottle, and usually some kind of hidden item to be gathered for rewards. This started in Link's Awakening with the Secret Seashells, and Ocarina of Time continues that tradition with one hundred Gold Skulltulas hidden throughout Hyrule.</p>
+<p>Hidden in both time periods of the game in roughly equal portions, the Gold Skulltulas are the symbols of a curse that affects a wealthy family in Kakariko Village. There are six members in the family total, and finding, destroying, and taking the magic token from enough Gold Skulltulas will free one of the family members from his curse. Visiting the House of Skulltula at that point will get Link some kind of special item, usually beneficial, sometimes laughably useless. Finding all one hundred Gold Skulltulas is perhaps the most ominously difficult task in the game, as some of them require absurd amounts of backtracking (sometimes even returning to previously completed dungeons) to track them down.</p>
+<p>Ocarina also honors it's predecessors with the inclusion of thirty-six hidden Pieces of Heart. Each Piece of Heart represents one-quarter of a Heart Container, and gathering four Pieces of Heart rewards the player with an additional Heart Container. With thirty-six total Pieces of Heart hidden around Hyrule, that amounts to nine of the game's twenty available Heart Containers from Pieces of Heart.</p>
+<p>Both Gold Skulltulas and Pieces of Heart are hidden in both periods of Link's life, and some of the more fiendishly difficult ones actually require the player to accomplish goals in both time periods to reach them. But, in typical Nintendo fashion, these goals are never so perplexing or challenging as to be overly annoying to complete. A 100% completed Ocarina of Time game file is truly something to be proud of.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>The Legend of Zelda: Ocarina of Time marks a milestone in gaming. Just as the original Legend of Zelda set the standard for what Adventure Games - nay, what video games in general should have been, the Ocarina of Time does the same for it's generation of gaming. Doubtless, the upcoming The Legend of Zelda: The Twilight Princess will once again place that bar of competence to an even higher mark (Post-Twilight Princess update: it didn't. Good game, though). With it's new concepts and reworked old ideas constantly recycled into other games, there's no denying Ocarina of Time's timeless appeal and huge influence. It's not unusual for new game developers to cite The Legend of Zelda as the reason they got involved in video game programming, and in another ten years we will probably hear similar stories told about Ocarina of Time. It's not just Zelda; it's the Legend.</p>
+<p>I'm getting a little melodramatic now, so... on with the Walkthrough.</p>
+
+  
+  
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href=".." class="md-footer__link md-footer__link--prev" aria-label="Previous: About" rel="prev">
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                About
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../walkthrough/main_adventure/" class="md-footer__link md-footer__link--next" aria-label="Next: Main Adventure" rel="next">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Main Adventure
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs Insiders
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.expand", "navigation.footer", "navigation.indexes", "navigation.path", "navigation.sections", "navigation.tracking", "search.highlight", "search.suggest"], "search": "../assets/javascripts/workers/search.6c7302c4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.7c5c0157.min.js"></script>
+      
+    
+  <script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
+</html>
