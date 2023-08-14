@@ -12,11 +12,6 @@
     === "Gold Skulltulas"
         `000/100`
 
-<!-- !!! info "New Things This Chapter"
-    Heart Containers: ❤️❤️❤️<br />
-    Pieces of Heart: 000<br />
-    Gold Skulltulas : 000 -->
-
 ??? abstract "Checklists"
     === "Inventory Checklist"
         - [ ] Deku Stick
@@ -180,7 +175,7 @@ We'll be returning here several times over the course of the game, but you won't
 
 Take note of the patch of soft earth here; it will be semi-important later. Jump off the ledge to the floor below, and make your way to the back of the area. Z-Target the Business Scrub, who will probably retreat into the ground. Scrubs like to hide in the ground when you get too close to them. If you stand far enough away, though, they will reemerge and begin firing Deku Nuts at you. To beat this Business Scrub and make him sell you his wares, either reflect his Deku Nut back into his face with the Deku Shield, or do a Jump Attack.
 
-!!! info inline "New Equipment"
+!!! info inline end "New Equipment"
     - [x] Deku Stick Maximum Capacity Upgrade #1
 
 To perform a jump attack, begin by drawing your sword (B button) then hitting A. If you time it right and stand at just the right distance, the tip of your sword will connect with the Business Scrub just before he retreats into the ground. Speak with him, and he will upgrade the total amount of Deku Sticks you can carry to 20 for 40 rupees (and he'll maximize your Deku Sticks for free).

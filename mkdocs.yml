@@ -41,8 +41,9 @@ nav:
   - Walkthrough and Sidequests:
     - Main Adventure:
       - walkthrough/main_adventure/index.md
-      - walkthrough/main_adventure/progression_faq.md
+      - walkthrough/main_adventure/0301_progression_faq.md
       - walkthrough/main_adventure/0302_kokiri_forest.md
+      - walkthrough/main_adventure/0303_deku_tree.md
     - Sidequests:
       - walkthrough/sidequests/spoiler_free.md
       - walkthrough/sidequests/happy_mask.md
@@ -56,3 +57,5 @@ nav:
   - Miniboss and Boss Appendix: ""
   - Frequently Asked Questions: ""
   - Legal Stuff, Links, Contact Information and Special Thanks: ""
+extra_css:
+  - stylesheets/extra.css
