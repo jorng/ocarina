@@ -2,15 +2,21 @@
 
 !!! abstract "Status Report"
     === "Heart Containers"
-        ❤️❤️❤️🤍🤍🤍🤍🤍🤍🤍<br />
-        🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍
+        :heart: :heart: :heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: <br />
+        :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: <br />
+        (`03/20`)
 
     === "Pieces of Heart"
-        `00/36`
+        :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: <br />        :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: <br />        :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: <br />
+        (`00/36`)
 
 
     === "Gold Skulltulas"
-        `000/100`
+        :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: <br />
+        :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: <br />
+        :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: <br />
+        :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: <br />
+        (`000/100`)
 
 ??? abstract "Checklists"
     === "Inventory Checklist"

@@ -2,44 +2,31 @@
 
 !!! abstract "Status Report"
     === "Heart Containers"
-        :heart:
-        :heart:
-        :heart:
-        :white_heart:
-        :white_heart:
-        :white_heart:
-        :white_heart:
-        :white_heart:
-        :white_heart:
-        :white_heart:
-        <br />
-        :white_heart:
-        :white_heart:
-        :white_heart:
-        :white_heart:
-        :white_heart:
-        :white_heart:
-        :white_heart:
-        :white_heart:
-        :white_heart:
-        :white_heart:
+        :heart: :heart: :heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: <br />
+        :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: <br />
+        (`03/20`)
 
     === "Pieces of Heart"
-        `00/36`
+        :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: <br />        :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: <br />        :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: <br />
+        (`00/36`)
 
 
     === "Gold Skulltulas"
-        `000/100`
+        :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: <br />
+        :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: <br />
+        :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: <br />
+        :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: <br />
+        (`000/100`)
 
 !!! info "New Things This Chapter"
     === "Heart Containers"
-        :heart:
+        :heart: (1)
 
     === "Gold Skulltulas"
-        :material-shield-bug:{.gold-token}
-        :material-shield-bug:{.gold-token}
-        :material-shield-bug:{.gold-token}
-
+        :material-spider:{.gold-token}
+        :material-spider:{.gold-token}
+        :material-spider:{.gold-token}
+        (3)
 
 ??? abstract "Checklists"
     === "Inventory Checklist"
@@ -199,7 +186,7 @@ Go through it.
 Turn to the right and step on the switch next to the lantern. The three platforms in the center of the room will begin to rise. Quickly jump along them to the ledge in the back of the room. Open the chest to find the Compass. Kill the Deku Baba for a Deku Stick if you don't have one (you're going to need one in a moment). Drop back down off the cliff and return to the room's entrance. Use the ivy wall in the northwest corner to climb back up.
 
 !!! info inline end "New Quest Item"
-    Gold Skulltula Token :material-shield-bug:{.gold-token} [GS001]
+    Gold Skulltula Token :material-spider:{.gold-token} [GS001]
 
 Step on the switch again, and this time use the platforms to reach the small alcove in the northern part of the room. Jump past the Big Skulltula and open the chest for a Recovery Heart. Kill the Gold Skulltula in the back of the alcove to get the game's first Gold Skulltula Token. Skulltula Tokens can be redeemed at the House of Skulltula in Kakariko Village for rewards. Some rewards are good, some are just plain awful. You won't be able to Z-target the Skulltula - this is normal. The tokens, however, are Z-targetable.
 
@@ -209,12 +196,12 @@ Jump back down to the pit in the center of the room, and climb back up to the do
 ## The Trunk
 
 !!! info inline end "New Quest Item"
-    Gold Skulltula Token :material-shield-bug:{.gold-token} [GS002]
+    Gold Skulltula Token :material-spider:{.gold-token} [GS002]
 
 Run to the right, past the first Big Skulltula. When you reach the second one, kill it by Z-Targeting it, and waiting for it to spin around. Use a Jump Attack when it does this. You're now going to have to jump off the edge and land on the bit of webbing, clear down on the first floor of the Trunk. It may take a few tries to get your aim precise, but it isn't difficult. If you land right on the webbing, you will break through it into the sub basement level of the Trunk.
 
 !!! info inline end "New Quest Item"
-    Gold Skulltula Token :material-shield-bug:{.gold-token} [GS003]
+    Gold Skulltula Token :material-spider:{.gold-token} [GS003]
 
 You'll land in a pool of water. Climb up onto the ledge in the southeast corner of the room (to your right as you land). Step on the switch to activate the lantern. Use your Fairy Slingshot to kill the Gold Skulltula on the grating on the eastern side of the room. Jump out from the ledge to reach it, then climb back up onto the ledge. Face the long ivy wall that you fell down to reach this area, on the south side of the room. Kill the second Gold Skulltula, and climb up the wall to claim the token.
 

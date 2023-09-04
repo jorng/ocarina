@@ -1,67 +1,139 @@
 # Hyrule Castle
 
-      ~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~
-                 zz
-           -----zzzz-----
-          -----zzzzzz-----
-         -----zzzzzzzz-----
-        -----zzzzzzzzzz-----
-       -----zzzzzzzzzzzz-----
-      -----zz----------zz-----                  Hyrule Castle
-      ----zzzz--------zzzz----                     [0304]
-       --zzzzzz------zzzzzz--
-        zzzzzzzz----zzzzzzzz
-       zzzzzzzzzz--zzzzzzzzzz
-      zzzzzzzzzzzzzzzzzzzzzzzz
-           --------------
-      ~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~o~
+!!! abstract "Status Report"
+    === "Heart Containers"
+        :heart: :heart: :heart: :heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: <br />
+        :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: <br />
+        (`03/20`)
 
-           Status Report -                New Things This Chapter -
-             Heart Containers: 004/020       Heart Containers: 000
-             Heart Pieces    : 000/036       Heart Pieces    : 001
-             Gold Skulltulas : 003/100       Gold Skulltulas : 002
+    === "Pieces of Heart"
+        :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: <br />        :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: <br />        :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: :material-puzzle-heart-outline: <br />
+        (`00/36`)
 
-    +----------------------------Inventory Checklist------------------------------+
-    |X Deku Stick       X Deku Nut          X Fairy Slingshot  _ Fairy Ocarina    |
-    |_ Bombs            _ Bombchus          _ Magic Beans      _ Boomerang        |
-    |_ Ocarina of Time  _ Din's Fire        _ Farore's Wind    _ Nayru's Love     |
-    |_ Fairy Bow        _ Fire Arrow        _ Ice Arrow        _ Light Arrow      |
-    |_ Hookshot         _ Longshot          _ Lens of Truth    _ Megaton Hammer   |
-    |_ Bottle #1        _ Bottle #2         _ Bottle #3        _ Bottle #4        |
-    |                                                                             |
-    +------------------------------Song Checklist---------------------------------+
-    |_ Zelda's Lullaby         _ Epona's Song            _ Saria's Song           |
-    |_ Sun's Song              _ Song of Time            _ Song of Storms         |
-    |_ Minuet of Forest        _ Bolero of Fire          _ Serenade of Water      |
-    |_ Requiem of Spirit       _ Nocturne of Shadow      _ Prelude of Light       |
-    |                                                                             |
-    +----------------------------Equipment Checklist------------------------------+
-    |X Kokiri Sword            _ Master Sword            _ Biggoron Sword         |
-    |X Deku Shield             _ Hylian Shield           _ Mirror Shield          |
-    |X Kokiri Tunic            _ Goron Tunic             _ Zora Tunic             |
-    |X Kokiri Boots            _ Iron Boots              _ Hover Boots            |
-    |X Ammo Pouch              _ Big Ammo Pouch          _ Biggest Ammo Pouch     |
-    |_ Quiver                  _ Big Quiver              _ Biggest Quiver         |
-    |_ Bomb Bag                _ Big Bomb Bag            _ Biggest Bomb Bag       |
-    |_ Goron Bracelet          _ Silver Gauntlets        _ Gold Gauntlets         |
-    |X Child's Wallet          _ Adult's Wallet          _ Giant's Wallet         |
-    |_ Silver Scale            _ Gold Scale              _ Stone of Agony         |
-    |                                                                             |
-    +-----------------------------Upgrade Checklist-------------------------------+
-    |_ Super Spin Attack       _ Magic Meter             _ Extended Magic Meter   |
-    |_ Enhanced Defense        X Deku Stick Cap. Up. #1  _ Deku Stick Cap. Up. #2 |
-    |_ Deku Nut Cap. Up. #1    _ Deku Nut Cap. Up. #2    _ Epona                  |
-    |                                                                             |
-    +------------------------------Mask Checklist---------------------------------+
-    |_ Keaton Mask      _ Skull Mask        _ Spooky Mask      _ Bunny Hood       |
-    |_ Mask of Truth    _ Goron Mask        _ Zora Mask        _ Gerudo Mask      |
-    |                                                                             |
-    +-------------------------Trading Sidequest Checklist-------------------------+
-    |_ Pocket Egg       _ Pocket Cucco      _ Cojiro           _ Odd Mushroom     |
-    |_ Odd Potion       _ Poacher's Saw     _ B. Goron's Sword _ Prescription     |
-    |_ Eyeball Frog            _ Biggoron's Eyedrops           _ Claim Check      |
-    |                                                                             |
-    +-----------------------------------------------------------------------------+
+
+    === "Gold Skulltulas"
+        :material-spider:{.gold-token} :material-spider:{.gold-token} :material-spider:{.gold-token} :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: <br />
+        :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: <br />
+        :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: <br />
+        :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: :material-spider-outline: <br />
+        (`003/100`)
+
+!!! info "New Things This Chapter"
+    === "Heart Pieces"
+        :material-puzzle-heart:{.heart-red} (1)
+
+    === "Gold Skulltulas"
+        :material-spider:{.gold-token}
+        :material-spider:{.gold-token}
+        (2)
+
+
+??? abstract "Checklists"
+    === "Inventory Checklist"
+        - [x] Deku Stick
+        - [x] Deku Nut
+        - [x] Fairy Slingshot
+        - [ ] Fairy Ocarina
+        - [ ] Bombs
+        - [ ] Bombchus
+        - [ ] Magic Beans
+        - [ ] Boomerang
+        - [ ] Ocarina of Time
+        - [ ] Din's Fire
+        - [ ] Farore's Wind
+        - [ ] Nayru's Love
+        - [ ] Fairy Bow
+        - [ ] Fire Arrow
+        - [ ] Ice Arrow
+        - [ ] Light Arrow
+        - [ ] Hookshot
+        - [ ] Longshot
+        - [ ] Lens of Truth
+        - [ ] Megaton Hammer
+        - [ ] Bottle #1
+        - [ ] Bottle #2
+        - [ ] Bottle #3
+        - [ ] Bottle #4
+
+    === "Song Checklist"
+        - [ ] Zelda's Lullaby
+        - [ ] Epona's Song
+        - [ ] Saria's Song
+        - [ ] Sun's Song
+        - [ ] Song of Time
+        - [ ] Song of Storms
+        - [ ] Minuet of Forest
+        - [ ] Bolero of Fire
+        - [ ] Serenade of Water
+        - [ ] Requiem of Spirit
+        - [ ] Nocturne of Shadow
+        - [ ] Prelude of Light
+
+    === "Equipment Checklist"
+        - [x] Kokiri Sword
+        - [ ] Master Sword
+        - [ ] Biggoron Sword
+        - [x] Deku Shield
+        - [ ] Hylian Shield
+        - [ ] Mirror Shield
+        - [x] Kokiri Tunic
+        - [ ] Goron Tunic
+        - [ ] Zora Tunic
+        - [x] Kokiri Boots
+        - [ ] Iron Boots
+        - [ ] Hover Boots
+        - [x] Ammo Pouch
+        - [ ] Big Ammo Pouch
+        - [ ] Biggest Ammo Pouch
+        - [ ] Quiver
+        - [ ] Big Quiver
+        - [ ] Biggest Quiver
+        - [ ] Bomb Bag
+        - [ ] Big Bomb Bag
+        - [ ] Biggest Bomb Bag
+        - [ ] Goron Bracelet
+        - [ ] Silver Gauntlets
+        - [ ] Gold Gauntlets
+        - [x] Child's Wallet
+        - [ ] Adult's Wallet
+        - [ ] Giant's Wallet
+        - [ ] Silver Scale
+        - [ ] Gold Scale
+        - [ ] Stone of Agony
+
+    === "Upgrade Checklist"
+        - [ ] Super Spin Attack
+        - [ ] Magic Meter
+        - [ ] Extended Magic Meter
+        - [ ] Enhanced Defense
+        - [x] Deku Stick Cap. Up. #1
+        - [ ] Deku Stick Cap. Up. #2
+        - [ ] Deku Nut Cap. Up. #1
+        - [ ] Deku Nut Cap. Up. #2
+        - [ ] Epona
+
+    === "Mask Checklist"
+        - [ ] Keaton Mask
+        - [ ] Skull Mask
+        - [ ] Spooky Mask
+        - [ ] Bunny Hood
+        - [ ] Mask of Truth
+        - [ ] Goron Mask
+        - [ ] Zora Mask
+        - [ ] Gerudo Mask
+
+    === "Trading Sidequest Checklist"
+        - [ ] Pocket Egg
+        - [ ] Pocket Cucco
+        - [ ] Cojiro
+        - [ ] Odd Mushroom
+        - [ ] Odd Potion
+        - [ ] Poacher's Saw
+        - [ ] B. Goron's Sword
+        - [ ] Prescription
+        - [ ] Eyeball Frog
+        - [ ] Biggoron's Eyedrops
+        - [ ] Claim Check
 
 ## Kokiri Forest
 
@@ -85,7 +157,7 @@ Once you gain access to Hyrule Castle, immediately enter the gatehouse to your l
 
 ## Hyrule Castle - Gatehouse (daytime) [GS004]
 !!! info inline end "New Quest Item"
-    Gold Skulltula Token :material-shield-bug:{.gold-token} [GS004]
+    Gold Skulltula Token :material-spider:{.gold-token} [GS004]
 
 Smash all of the pots in this room with your sword, then destroy the crates in the rear of the room by rolling into them. One of them contains a Gold Skulltula. Kill it, and take the token it leaves behind. Then leave the Gatehouse.
 
@@ -122,7 +194,7 @@ Leave the market through the passage directly behind Malon.
 
 ## Hyrule Castle - Garden (daytime) [GS005]
 !!! info inline end "New Quest Item"
-    Gold Skulltula Token :material-shield-bug:{.gold-token} [GS005]
+    Gold Skulltula Token :material-spider:{.gold-token} [GS005]
 
 Run forward a short ways, where Kaepora Gaebora will appear again. Listen to his rant about guards, then when he flies away roll into his tree to make a Gold Skulltula appear. Now, you'll have to hang around here until it becomes nighttime. Once it does, head back to the Market.
 
