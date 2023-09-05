@@ -91,7 +91,7 @@
         - [ ] Bomb Bag
         - [ ] Big Bomb Bag
         - [ ] Biggest Bomb Bag
-        - [ ] Goron Bracelet
+        - [ ] Goron's Bracelet
         - [ ] Silver Gauntlets
         - [ ] Gold Gauntlets
         - [x] Child's Wallet
@@ -139,7 +139,7 @@ The game's first Dungeon, Inside the Deku Tree, follows one of the simplest form
 
 ## The Trunk
 
-!!! example inline end ":map: Dungeon Map"
+!!! example inline end ":fontawesome-solid-map:{.map-brown} Dungeon Map"
 
 Start by killing the Deku Babas in the corners of the room. Hold your shield up with R while Z-Targeting to absorb their attacks. Take the Deku Sticks and/or Deku Nuts that they drop. Slash the bushes against the northeastern wall, then climb up the ivy wall in the northern part of the room. Slash the bushes at the top, then run to the right along the platform, being careful not to fall. Open the chest part of the way along the ledge to find the Dungeon Map. Keep going right along the ledge and enter the door you come to.
 
@@ -157,7 +157,7 @@ next room.
 
 !!! info inline end "New Item + Equipment"
     - [x] Fairy Slingshot
-    - [x] Bullet Bag x30
+    - :material-sack:{.bag-brown} Bullet Bag x30
 
 Jump out to the gray platform, but quickly jump to the next ledge, as the
 platform will quickly begin to fall. Open the chest to find the Fairy

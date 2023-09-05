@@ -101,7 +101,7 @@
         - [ ] Bomb Bag
         - [ ] Big Bomb Bag
         - [ ] Biggest Bomb Bag
-        - [ ] Goron Bracelet
+        - [ ] Goron's Bracelet
         - [ ] Silver Gauntlets
         - [ ] Gold Gauntlets
         - [x] Child's Wallet
@@ -181,7 +181,7 @@ Being careful not to fall into the pit (doing so will reset the Cuccos in Kakari
 
 Drop back down into the grotto, then climb the tall ladder near where you found your most recent Cucco. Climb it all the way to the top, and work your way around behind the Windmill. Grab the last Cucco (sometimes it wanders over to the very top of the ladder you just climbed up), then jump off the cliff, heading towards the Cucco Lady's pasture. Throw your Cucco into the pasture, then grab the other two who should still be wandering around by the Well. Return them to the Pasture as well, then speak to Cucco Lady, who will give you a Bottle for your trouble.
 
-But the Cucco Jumping Fun isn't over yet!  Grab another Cucco from the pasture, since we're now going to be gliding out to the rickety balcony which sits above the Cucco pasture. Climb the stairs to the unfinished building, then go around to the front side of the stack of bricks. Throw the Cucco up to the first level of the stack of bricks, then quickly climb up and grab the Cucco again before it has a chance to run off the edge. Repeat the process again on the second level of the brick pile.
+But the Cucco Jumping Fun isn't over yet! Grab another Cucco from the pasture, since we're now going to be gliding out to the rickety balcony which sits above the Cucco pasture. Climb the stairs to the unfinished building, then go around to the front side of the stack of bricks. Throw the Cucco up to the first level of the stack of bricks, then quickly climb up and grab the Cucco again before it has a chance to run off the edge. Repeat the process again on the second level of the brick pile.
 
 Turn to the right, to the narrow beam which has the carpenter running back and forth along it aimlessly. Wait for the carpenter to reach the left side of the beam, then start going right again before you jump out onto the beam yourself. Run along the beam, and when you reach the corner where the beam bends to the right, leap off the edge and steer yourself right for the balcony. You'll just barely make it onto the ledge (in fact, you'll likely clip onto the ledge). Throw aside the Cucco and enter the crack in the building.
 
@@ -211,7 +211,7 @@ Run down the ramp and run in circles around the large bone pit to attract the at
 
 Hug the left wall of this room and run to it's end. Ignore the attention of any Redeads you may attract on the way - for Young Link, it's easiest to avoid Redeads then to kill them. Enter the doorway on the opposite end of the room, and pass through the shadowy tunnel to find a large tomb.
 
-Read the inscription on the tomb to discover the notes to the Sun's Song, which turns Night into Day and Day into Night. No more standing around Hyrule Field waiting for time to pass!  Return to the entrance to the tomb and enter the beam of light to warp back to the Graveyard.
+Read the inscription on the tomb to discover the notes to the Sun's Song, which turns Night into Day and Day into Night. No more standing around Hyrule Field waiting for time to pass! Return to the entrance to the tomb and enter the beam of light to warp back to the Graveyard.
 
 Now that you have the Sun's Song, you also have access to a quick and easy 80 rupees. If you return to the entrance to Hyrule Castle in Hyrule Field, then climb up the chains on the gate, then you can play the Sun's Song. The gate will retract, letting you walk along the edge of the gate to claim four invisible red rupees. This is known as the "Sun's Song Rupee Trick," and I will reference it a few times throughout the guide.
 

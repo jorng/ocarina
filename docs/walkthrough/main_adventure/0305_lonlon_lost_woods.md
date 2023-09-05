@@ -93,7 +93,7 @@
         - [ ] Bomb Bag
         - [ ] Big Bomb Bag
         - [ ] Biggest Bomb Bag
-        - [ ] Goron Bracelet
+        - [ ] Goron's Bracelet
         - [ ] Silver Gauntlets
         - [ ] Gold Gauntlets
         - [x] Child's Wallet
