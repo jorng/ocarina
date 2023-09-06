@@ -164,8 +164,8 @@
     === "Mask Checklist"
         - [x] Keaton Mask
         - [x] Skull Mask
-        - [ ] Spooky Mask
-        - [ ] Bunny Hood
+        - [x] Spooky Mask
+        - [x] Bunny Hood
         - [ ] Mask of Truth
         - [ ] Goron Mask
         - [ ] Zora Mask
